@@ -2,7 +2,7 @@
 
 ## 🔎sobre mim?
 
-🖥️Sou aficionado por desenvolvimento web, buscando conhecimentos para ingressar na área de back-end, sempre em busca de novas práticas para aprimorar meus conhecimentos.
+🖥️Sou aficionado por desenvolvimento web, buscando conhecimentos para ingressar na área de front-end, sempre em busca de novas práticas para aprimorar meus conhecimentos.
 
 ## 🚀habiidades
 
