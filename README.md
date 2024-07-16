@@ -21,3 +21,8 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/alisson-barbosa-094b3a305/)](https://www.linkedin.com/in/alisson-barbosa-094b3a305/)
 [![instagrma](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alysson_barbosa_r/)
 
+![Snake animation]
+(https://github.com/Alysson-b/Alysson-b/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Alysson-b&repo=Alysson-b&theme=react)](https://github.com/Alysson-b/Alysson-b)
+
