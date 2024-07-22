@@ -1,4 +1,13 @@
-# olá! eu sou o alysson👋🏼
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/15fb1369-eed6-433a-a7e4-2bceda2d6030"/>
+
+<br>
+<br>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=3500&pause=500&color=37C1FD&center=true&vCenter=true&width=1000&height=70&lines=%C3%93LA%2C+EU+SOU+O+ALISSON%2C;SEJA+BEM+VINDO%2C+AO+MEU+GITHUB.)](https://git.io/typing-svg)
+<br>
+<br>
+<br>
 
 ## 🔎sobre mim?
 
@@ -20,6 +29,16 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/alisson-barbosa-094b3a305/)](https://www.linkedin.com/in/alisson-barbosa-094b3a305/)
 [![instagrma](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alysson_barbosa_r/)
+
+<br>
+<br>
+<br>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alysson-b&theme=youtube-dark&hide_border=verdadeiro&locale=pt_BR)](https://git.io/streak-stats)
+
+</div>
 
 
 
