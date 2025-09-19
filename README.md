@@ -11,7 +11,9 @@
 
 ## 🔎sobre mim?
 
-🖥️Sou aficionado por desenvolvimento web, buscando conhecimentos para ingressar na área de front-end, sempre em busca de novas práticas para aprimorar meus conhecimentos.
+🖥️ Sou apaixonado por desenvolvimento web e estou focado em me tornar um desenvolvedor Full-stack.
+🚀 Estou sempre em busca de novas práticas, ferramentas e tecnologias para aprimorar minhas habilidades e construir interfaces cada vez mais modernas e eficientes.
+💡 Acredito que o aprendizado contínuo é a chave para evoluir na área de tecnologia.
 
 ## 🚀habiidades
 
